@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+		"TAB_MULT.C": "cpp",
+		"stdlib.h": "c",
+		"__locale": "c",
+		"cstring": "c"
+	}
+}
